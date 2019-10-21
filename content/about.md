@@ -7,4 +7,4 @@ This is a place for sharing useful things I find in R that if I don't document s
 
 This site is built using a Hugo theme called Minimal and written in RStudio using Blogdown and served using Netlify.
 
-Hugo may be the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+Hugo may be the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made. 

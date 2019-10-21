@@ -1,5 +1,5 @@
 ---
-description: What is Hugo?
+description: What is this?
 title: About
 ---
 
